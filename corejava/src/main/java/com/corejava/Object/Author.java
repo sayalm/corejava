@@ -64,6 +64,13 @@ public class Author  {
                 ", contactNo='" + contactNo + '\'' +
                 '}';
     }
+
+    public Object getName() {
+        return null;
+    }
+
+
 }
+
 
 

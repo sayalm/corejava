@@ -4,11 +4,13 @@ import com.corejava.Interfaces.Task2.AuthorUtils;
 
 import java.io.IOException;
 import java.util.*;
+import java.util.logging.Logger;
+
 
 public class Main {
 
-//    public static final String FILE_NAME = "D:\\sayal\\corejava\\corejava\\files\\New1.json";
-public static final String FILE_NAME = "files/New2.json";
+    //    public static final String FILE_NAME = "D:\\sayal\\corejava\\corejava\\files\\New1.json";
+    public static final String FILE_NAME = "files/New2.json";
     public static final String ARTICLEFILENAME = "files/Article.json";
 
     public static void main(String[] args) throws IOException {
@@ -27,13 +29,15 @@ public static final String FILE_NAME = "files/New2.json";
         authorList.add(new Author("vay5", "umaniya", "ctw", "xcvxvc@gmail.com", "9177865872"));
         authorList.add(new Author("iay6", "man", "bnp", "thtcvb@gmail.com", "917783123872"));
         System.out.println("listed Author list" + authorList);
+//        authorList.stream().filter(p -> p.getFirstName().equals("Say1")).findAny();
+
         article.setAuthors(authorList);
 
         List<Article> articleList = new ArrayList<Article>();
         List<Author> authorList1 = new ArrayList<Author>();
         authorList1.add(new Author("hari", "maney", "bkt", "sdrreead@gmail.com", "917564583982"));
         authorList1.add(new Author("aay2", "mants", "pkr", "sdammmmmd@gmail.com", "91701210172"));
-        Article article1 = new Article("abcd",new Date(),authorList1);
+        Article article1 = new Article("abcd", new Date(), authorList1);
         articleList.add(article);
         articleList.add(article1);
 
@@ -41,11 +45,6 @@ public static final String FILE_NAME = "files/New2.json";
         export1.exportArticles(articleList, ARTICLEFILENAME);
         export1.importArticles(ARTICLEFILENAME);
         ArticleUtils.printMessage1();
-
-
-
-
-
 
 
         Iterator<Author> it = article.getAuthors().iterator(); //authorList.iterator();
@@ -84,6 +83,24 @@ public static final String FILE_NAME = "files/New2.json";
         authorUtils.exportAuthors(authorList, FILE_NAME);
         authorUtils.importAuthors(FILE_NAME);
         AuthorUtils.printMessage();
+////        String string = "say1";
+//        boolean match = authorList.stream().anyMatch(s -> authorList.contains(s));
+//        System.out.println(match);
 
+        final String query = "say1";
+//        System.out.println("Finding "+ query + " in AuthorList");
+            Logger logger = Logger.getLogger(String.valueOf(Author.class));
+            logger.info("Finding " + query + " in AuthorList");
+        Logger.getLogger("INFO");
+
+        Optional<Author> queryResult = authorList.stream().filter(value -> value != null)
+                .filter(value -> value.getFirstName().equalsIgnoreCase(query)).findFirst();
+        if (queryResult.isPresent()){
+            logger.info("Found " + query + " in list");
+        }else {
+            logger.info("Could not find " + query  + " inlist");
+        }
+       }
     }
-}
+
+
