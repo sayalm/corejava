@@ -1,0 +1,9 @@
+2021-09-02 10:31:59 DEBUG HelloExample:19 - This is debug : mkyong
+2021-09-02 10:31:59 INFO  HelloExample:23 - This is info : mkyong
+2021-09-02 10:31:59 WARN  HelloExample:26 - This is warn : mkyong
+2021-09-02 10:31:59 ERROR HelloExample:27 - This is error : mkyong
+2021-09-02 10:31:59 FATAL HelloExample:28 - This is fatal : mkyong
+2021-09-02 10:47:10 ERROR HelloExample2:16 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.Logging.examples.HelloExample2.divide(HelloExample2.java:24)
+	at com.Logging.examples.HelloExample2.main(HelloExample2.java:14)
