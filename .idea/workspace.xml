@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a1425b-2c61-4a65-a6e1-e8cb16d30aff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EchoClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EchoClient/src/main/java/com/Client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/files/regex_read_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/DataBase/Task/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/Regularexpression/MetacharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/Regularexpression/RegexExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/Regularexpression/RegexMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/Regularexpression/RegexMatches1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/Regularexpression/Task/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corejava/src/main/java/com/corejava/Regularexpression/Task/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/echoserver/src/main/java/com/Networking/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/CollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/CollectionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/HashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/HashMapDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/SetDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/SortedSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/SortedSetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/ArraySorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/ArraySorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/LinearSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/SingularAndPlural.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/SingularAndPlural.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/SortAndSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/SortAndSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/Steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/WithLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Task/WithLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/CollectionFramework/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Execption/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Execption/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Execption/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Execption/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Generic/GenericMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Generic/GenericMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Generic/MaximumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Generic/MaximumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Button$OnClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Button$OnClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Gearbox$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Gearbox$Gear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Gearbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Gearbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Main$1ClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Main$1ClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/OuterClass$1MethodInner_Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/OuterClass$1MethodInner_Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InnerClasss/OuterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/CopyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/Locations.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/Locations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/InputAndOutput/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/DeskPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/DeskPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Gearbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Gearbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/ITelephone.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/ITelephone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/AuthorUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/AuthorUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/AuthorUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/AuthorUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/IAuthor.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/IAuthor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/Task2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/Monster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/Saveable.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/Saveable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Interfaces/task/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Java8Tester$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Java8Tester$GreetingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Java8Tester$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Java8Tester$MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Java8Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Java8Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/StringFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/LambdaExpression/StringFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/RunnableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/RunnableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/Task/MultithreadWriteToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/Task/MultithreadWriteToFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/Task/Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/Task/Writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/example1/DisplayMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/example1/DisplayMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/example1/GuessANumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/example1/GuessANumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/example1/ThreadClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/example1/ThreadClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample$PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample$PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Multithreading/producerandConsumer/Threadexample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Abstraction/AbstractDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Abstraction/AbstractDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Abstraction/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Abstraction/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Calculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/My_Calculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/My_Calculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Sub_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Sub_class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Super_class.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/Super_class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/polymorphism/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/polymorphism/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/polymorphism/Salary.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/polymorphism/Salary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/polymorphism/VirtualDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/OOP/polymorphism/VirtualDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/ArticleUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/ArticleUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/ArticleUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/ArticleUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Author.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/IArticle.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/IArticle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Object/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Task/Details.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/Task/Details.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/array/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/array/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corejava/target/classes/com/corejava/array/TestArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/corejava/target/classes/com/corejava/array/TestArray.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zg8LootDI4K1nzSHkgKeVUCuK1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a1425b-2c61-4a65-a6e1-e8cb16d30aff" name="Changes" comment="" />
+      <created>1634558316605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634558316605</updated>
+      <workItem from="1634558317988" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

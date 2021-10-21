@@ -7,3 +7,16 @@
 java.lang.ArithmeticException: / by zero
 	at com.Logging.examples.HelloExample2.divide(HelloExample2.java:24)
 	at com.Logging.examples.HelloExample2.main(HelloExample2.java:14)
+lO2021-10-19 11:32:54 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.Logging.examples.HelloExample2.divide(HelloExample2.java:26)
+	at com.Logging.examples.HelloExample2.main(HelloExample2.java:16)
+2021-10-19 11:33:48 ERROR HelloExample2:18 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.Logging.examples.HelloExample2.divide(HelloExample2.java:26)
+	at com.Logging.examples.HelloExample2.main(HelloExample2.java:16)
+2021-10-20 12:37:13 DEBUG HelloExample:19 - This is debug : mkyong
+2021-10-20 12:37:13 INFO  HelloExample:23 - This is info : mkyong
+2021-10-20 12:37:13 WARN  HelloExample:26 - This is warn : mkyong
+2021-10-20 12:37:13 ERROR HelloExample:27 - This is error : mkyong
+2021-10-20 12:37:13 FATAL HelloExample:28 - This is fatal : mkyong

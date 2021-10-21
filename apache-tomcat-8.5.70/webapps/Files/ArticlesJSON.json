@@ -1,0 +1,64 @@
+{
+  "Article": [
+    {
+      "title": "The Wrath of coding",
+      "publishedDate": "2014-06-25",
+      "authors": [
+        {
+          "firstName": "John",
+          "lastName": "Patridge",
+          "address": "Westminster, London, UK",
+          "contact": "4894178532",
+          "email": "patj@gmail.com"
+        },
+        {
+          "firstName": "Randy",
+          "lastName": "Benson",
+          "address": "Croydon, London, UK",
+          "contact": "7941154522",
+          "email": "benrandy@gmail.com"
+        },
+        {
+          "firstName": "William",
+          "lastName": "Regal",
+          "address": "St.Brunel, London, UK",
+          "contact": "7521435698",
+          "email": "regal@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "Head First Tail Last",
+      "publishedDate": "2020-09-17",
+      "authors": [
+        {
+          "firstName": "Katelyn",
+          "lastName": "Beans",
+          "address": "Carrow road, Norwich, UK",
+          "contact": "4568521590",
+          "email": "kate@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "Java Fundamentals",
+      "publishedDate": "2018-02-23",
+      "authors": [
+        {
+          "firstName": "Jeff",
+          "lastName": "Tiote",
+          "address": "Southhampton, UK",
+          "contact": "7412369854",
+          "email": "tiote@gmail.com"
+        },
+        {
+          "firstName": "Howard",
+          "lastName": "Dann",
+          "address": "Hilton Avenue, Wales, UK",
+          "contact": "1237895320",
+          "email": "dannh@gmail.com"
+        }
+      ]
+    }
+  ]
+}
