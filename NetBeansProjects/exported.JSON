@@ -1,0 +1,108 @@
+[
+  {
+    "articleId": 1,
+    "title": "The Wrath of coding",
+    "publishedDate": "2014-06-25",
+    "authors": [
+      {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Patridge",
+        "address": "Westminster, London, UK",
+        "contact": "4894178532",
+        "email": "patj@gmail.com",
+        "articleId": 1
+      },
+      {
+        "id": 2,
+        "firstName": "Randy",
+        "lastName": "Benson",
+        "address": "Croydon, London, UK",
+        "contact": "7941154522",
+        "email": "benrandy@gmail.com",
+        "articleId": 1
+      },
+      {
+        "id": 3,
+        "firstName": "William",
+        "lastName": "Regal",
+        "address": "St.Brunel, London, UK",
+        "contact": "7521435698",
+        "email": "regal@gmail.com",
+        "articleId": 1
+      }
+    ]
+  },
+  {
+    "articleId": 2,
+    "title": "Head First Tail Last",
+    "publishedDate": "2020-09-17",
+    "authors": [
+      {
+        "id": 4,
+        "firstName": "Katelyn",
+        "lastName": "Beans",
+        "address": "Carrow road, Norwich, UK",
+        "contact": "4568521590",
+        "email": "kate@gmail.com",
+        "articleId": 2
+      }
+    ]
+  },
+  {
+    "articleId": 3,
+    "title": "Java Fundamentals",
+    "publishedDate": "2018-02-23",
+    "authors": [
+      {
+        "id": 5,
+        "firstName": "Jeff",
+        "lastName": "Tiote",
+        "address": "Southhampton, UK",
+        "contact": "7412369854",
+        "email": "tiote@gmail.com",
+        "articleId": 3
+      },
+      {
+        "id": 6,
+        "firstName": "Howard",
+        "lastName": "Dann",
+        "address": "Hilton Avenue, Wales, UK",
+        "contact": "1237895320",
+        "email": "dannh@gmail.com",
+        "articleId": 3
+      }
+    ]
+  },
+  {
+    "articleId": 0,
+    "title": "asdasd",
+    "publishedDate": "saasdadads",
+    "authors": []
+  },
+  {
+    "articleId": 55,
+    "title": "asd",
+    "publishedDate": "ssdad",
+    "authors": [
+      {
+        "id": 100,
+        "firstName": "sad",
+        "lastName": "sf",
+        "address": "sdf",
+        "contact": "4867786",
+        "email": "sdf",
+        "articleId": 55
+      },
+      {
+        "id": 120,
+        "firstName": "sadsad",
+        "lastName": "sadasd",
+        "address": "asdsad",
+        "contact": "1263666\\",
+        "email": "sadasd",
+        "articleId": 55
+      }
+    ]
+  }
+]

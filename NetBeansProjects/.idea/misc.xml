@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SMS/pom.xml" />
+        <option value="$PROJECT_DIR$/DataBase/pom.xml" />
+        <option value="$PROJECT_DIR$/FirstApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Classwork/pom.xml" />
+        <option value="$PROJECT_DIR$/DataBase1/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatServer/pom.xml" />
+        <option value="$PROJECT_DIR$/WordHelper/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatServer1/pom.xml" />
+        <option value="$PROJECT_DIR$/JdbcProject/pom.xml" />
+        <option value="$PROJECT_DIR$/CommonExample/pom.xml" />
+        <option value="$PROJECT_DIR$/FileIOManager/pom.xml" />
+        <option value="$PROJECT_DIR$/Task18withJDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/CollectionExample/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

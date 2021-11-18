@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FirstApp" />
+        <module name="JdbcProject" />
+        <module name="Classwork" />
+        <module name="ChatServer" />
+        <module name="CollectionExample" />
+        <module name="FileIOManager" />
+        <module name="WordHelper" />
+        <module name="DataBase" />
+        <module name="corejava" />
+        <module name="Task18withJDBC" />
+        <module name="ChatServer1" />
+        <module name="SMS" />
+        <module name="CommonExample" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ChatServer" target="11" />
+      <module name="ChatServer1" target="11" />
+      <module name="Classwork" target="11" />
+      <module name="CollectionExample" target="11" />
+      <module name="CommonExample" target="11" />
+      <module name="corejava" target="11" />
+      <module name="DataBase" target="11" />
+      <module name="FileIOManager" target="11" />
+      <module name="FirstApp" target="11" />
+      <module name="JdbcProject" target="11" />
+      <module name="SMS" target="11" />
+      <module name="Task18withJDBC" target="11" />
+      <module name="WordHelper" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

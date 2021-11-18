@@ -1,0 +1,4 @@
+127.0.0.1 - - [15/Nov/2021:17:02:25 +0545] "GET /Files/ArticlesJSON.json HTTP/1.1" 200 1645
+127.0.0.1 - - [15/Nov/2021:17:02:25 +0545] "GET /Files/ArticlesJSON.json HTTP/1.1" 200 1645
+127.0.0.1 - - [15/Nov/2021:17:03:51 +0545] "GET /Files/ArticlesJSON.json HTTP/1.1" 200 1645
+127.0.0.1 - - [15/Nov/2021:17:03:51 +0545] "GET /Files/ArticlesJSON.json HTTP/1.1" 200 1645

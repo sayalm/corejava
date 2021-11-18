@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChatServer/ChatServer.iml" filepath="$PROJECT_DIR$/ChatServer/ChatServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatServer1/ChatServer1.iml" filepath="$PROJECT_DIR$/ChatServer1/ChatServer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Classwork.iml" filepath="$PROJECT_DIR$/Classwork/Classwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionExample/CollectionExample.iml" filepath="$PROJECT_DIR$/CollectionExample/CollectionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonExample/CommonExample.iml" filepath="$PROJECT_DIR$/CommonExample/CommonExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBase/DataBase.iml" filepath="$PROJECT_DIR$/DataBase/DataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileIOManager/FileIOManager.iml" filepath="$PROJECT_DIR$/FileIOManager/FileIOManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstApp/FirstApp.iml" filepath="$PROJECT_DIR$/FirstApp/FirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JdbcProject/JdbcProject.iml" filepath="$PROJECT_DIR$/JdbcProject/JdbcProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMS/SMS.iml" filepath="$PROJECT_DIR$/SMS/SMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task18withJDBC/Task18withJDBC.iml" filepath="$PROJECT_DIR$/Task18withJDBC/Task18withJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordHelper/WordHelper.iml" filepath="$PROJECT_DIR$/WordHelper/WordHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBase1/corejava.iml" filepath="$PROJECT_DIR$/DataBase1/corejava.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+15-Nov-2021 17:01:39.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.70
+15-Nov-2021 17:01:39.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 9 2021 16:17:14 UTC
+15-Nov-2021 17:01:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.70.0
+15-Nov-2021 17:01:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Nov-2021 17:01:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Nov-2021 17:01:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Nov-2021 17:01:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11.0.12
+15-Nov-2021 17:01:39.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.12+8-LTS-237
+15-Nov-2021 17:01:39.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Nov-2021 17:01:39.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\sayal\corejava\apache-tomcat-8.5.70
+15-Nov-2021 17:01:39.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\sayal\corejava\apache-tomcat-8.5.70
+15-Nov-2021 17:01:39.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Nov-2021 17:01:39.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Nov-2021 17:01:39.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Nov-2021 17:01:39.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Nov-2021 17:01:39.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Nov-2021 17:01:39.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\sayal\corejava\apache-tomcat-8.5.70\conf\logging.properties
+15-Nov-2021 17:01:39.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Nov-2021 17:01:39.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Nov-2021 17:01:39.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Nov-2021 17:01:39.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Nov-2021 17:01:39.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\sayal\corejava\apache-tomcat-8.5.70
+15-Nov-2021 17:01:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\sayal\corejava\apache-tomcat-8.5.70
+15-Nov-2021 17:01:39.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\sayal\corejava\apache-tomcat-8.5.70\temp
+15-Nov-2021 17:01:39.967 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+15-Nov-2021 17:01:39.967 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+15-Nov-2021 17:01:39.968 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15-Nov-2021 17:01:40.028 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+15-Nov-2021 17:01:40.078 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8090"]
+15-Nov-2021 17:01:40.206 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+15-Nov-2021 17:01:40.218 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 867 ms
+15-Nov-2021 17:01:40.281 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Nov-2021 17:01:40.281 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.70]
+15-Nov-2021 17:01:40.296 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\docs]
+15-Nov-2021 17:01:40.634 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\docs] has finished in [337] ms
+15-Nov-2021 17:01:40.634 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\examples]
+15-Nov-2021 17:01:41.251 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Nov-2021 17:01:41.290 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\examples] has finished in [656] ms
+15-Nov-2021 17:01:41.291 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\Files]
+15-Nov-2021 17:01:41.317 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\Files] has finished in [26] ms
+15-Nov-2021 17:01:41.318 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\host-manager]
+15-Nov-2021 17:01:41.344 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\host-manager] has finished in [26] ms
+15-Nov-2021 17:01:41.344 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\manager]
+15-Nov-2021 17:01:41.373 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\manager] has finished in [29] ms
+15-Nov-2021 17:01:41.374 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\ROOT]
+15-Nov-2021 17:01:41.392 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\sayal\corejava\apache-tomcat-8.5.70\webapps\ROOT] has finished in [18] ms
+15-Nov-2021 17:01:41.415 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8090"]
+15-Nov-2021 17:01:41.426 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1207 ms
